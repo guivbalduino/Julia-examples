@@ -1,0 +1,3 @@
+Model Coefficients:
+(Intercept) = 1.146666666666659
+x = 1.149696969696971
