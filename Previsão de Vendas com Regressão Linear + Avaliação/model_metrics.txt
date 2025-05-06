@@ -1,0 +1,9 @@
+Linear Regression Evaluation
+----------------------------
+R²   = 0.9802
+MAE  = 1.7342
+RMSE = 1.9955
+
+Coefficients:
+(Intercept) = 13.4
+ads = 0.4882
